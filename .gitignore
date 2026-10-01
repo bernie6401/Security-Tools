@@ -9,6 +9,7 @@ Penetration/Password Brute Force/hashcat-7.1.2/hashcat.log
 Penetration/Password Brute Force/hashcat-7.1.2/hashcat.pid
 Penetration/Password Brute Force/hashcat-7.1.2/hashcat.dictstat2
 Penetration/Password Brute Force/hashcat-7.1.2/kernels/*.kernel
+Penetration/Password Brute Force/hashcat-7.1.2/self/*
 
 Web/Burp\ Suite/burpsuite_pro_v2022.2.2.jar
 Web/Language/d8/d8
